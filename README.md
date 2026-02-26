@@ -6,3 +6,4 @@ A repo of links useful to me, whether for completing a task, guiding you, or sim
 [Virtual Networking](https://wiki.libvirt.org/VirtualNetworking.html)  
 [Meson Build](https://mesonbuild.com/index.html)  
 [Dank Linux](https://danklinux.com/docs/)  
+[Robot Communication Protocols](https://thinkrobotics.com/blogs/learn/robot-communication-protocols-a-comprehensive-guide)
